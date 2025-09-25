@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryudacity",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6f85540-3f61-4a1c-aef1-91451ea5ae28",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
